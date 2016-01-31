@@ -1,0 +1,18 @@
+The following is an explanation of the terrain types and their initial costs:
+
+. 2 This is the generic cost for entering a hex. 
+    Every non-road hex has this base cost.
+
+w 5 Water.
+
+r 1 Road.
+
+u 4 Uphill.
+
+f 2 Forest.
+
+h 4 Heavy forest. (Located along hex edges in bottom-right of map)
+
+t 2 Town.
+
+c 3 City.
